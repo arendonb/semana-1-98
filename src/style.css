@@ -54,6 +54,7 @@ body{
     height: 182px;
 }
 
+
 .container-imagenCristhian{
     background-image: url('./fotoCristhian.jpg');
     background-position: top center;
@@ -63,6 +64,23 @@ body{
 }
 
 
+.container-imagenN4{
+    background-image: url('./noticia4.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 105px;
+    margin: 40px auto;
+}
+
+.container-imagenS3{
+    background-image: url('./serviciosProfesionales3.jpeg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 152px;
+    margin: 40px auto;
+}
 
 .nav-list{
     padding: 0.25em 0;
