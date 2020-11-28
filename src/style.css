@@ -63,6 +63,14 @@ body{
     height: 182px;
 }
 
+.container-imagenN3{
+    background-image: url('./noticia3.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 105px;
+    margin: 40px auto;
+}
 
 .container-imagenN4{
     background-image: url('./noticia4.jpg');
