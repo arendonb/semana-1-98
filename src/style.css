@@ -54,6 +54,16 @@ body{
     height: 182px;
 }
 
+
+.container-imagenCristhian{
+    background-image: url('./fotoCristhian.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    /* width: 242px; */
+    height: 182px;
+}
+
+
 .container-imagenN4{
     background-image: url('./noticia4.jpg');
     background-position: 50% 50%;
