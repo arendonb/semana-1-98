@@ -49,4 +49,6 @@ Una vez estabilizado el contenido de "desarrollo" se asigna las tareas adicional
 - issue1m se utilizó para crear la noticia 2, servicio 2 y datos personales de Miguel
 - issue1c se utilizó para crear el footer y los id. 
 
+Para los link de los servicios se decidió hacer una pagina plana donde se encuentre la descripción del servicio. Se ejecuto el issue y se integro a Desarrollo.
+
 Al final se unen casa issue a desarrollo y finalmente se une con master.
