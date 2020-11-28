@@ -54,6 +54,13 @@ body{
     height: 182px;
 }
 
+.container-Miguel{
+    background-image: url('./fotoMiguel.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    /* width: 242px; */
+    height: 182px;
+}
 
 .container-imagenCristhian{
     background-image: url('./fotoCristhian.jpg');
@@ -63,6 +70,14 @@ body{
     height: 182px;
 }
 
+.container-imagenN2{
+    background-image: url('./Red.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 105px;
+    margin: 40px auto;
+}
 
 .container-imagenN4{
     background-image: url('./noticia4.jpg');
@@ -70,6 +85,15 @@ body{
     background-repeat: no-repeat;
     width: 200px;
     height: 105px;
+    margin: 40px auto;
+}
+
+.container-imagenS2{
+    background-image: url('./ServicioRed.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 152px;
     margin: 40px auto;
 }
 
