@@ -70,8 +70,18 @@ body{
     height: 182px;
 }
 
+
 .container-imagenN2{
     background-image: url('./Red.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 105px;
+    margin: 40px auto;
+}
+
+.container-imagenN3{
+    background-image: url('./noticia3.jpg');
     background-position: 50% 50%;
     background-repeat: no-repeat;
     width: 200px;
@@ -151,10 +161,11 @@ body{
 
 .footer{
     height: 200px;
-    background-color: yellowgreen;
+    background-color: rgb(67, 139, 206);
     bottom: 0px;
-    /* position: fixed; */
-    /* width: 1200px; */
+    position: bottom;
+    width: 1200px;
+    
 }
 
 .section-text{
@@ -280,4 +291,24 @@ hr{
 .main-menu__link:hover{
     text-decoration: underline;
     font-weight: bold;
+    
 }
+
+.contenedor{
+width:400px;
+margin:10px 10px;
+padding:10px;
+font-size:italic;
+background-color:#cfc;
+color: #106277; 
+text-align: center;
+}
+.contenedor1{
+    width:700px;
+    margin:10px 10px;
+    padding:10px;
+    font-size:italic;
+    background-color:#cfc;
+    color: #106277; 
+    text-align: center;
+    }
