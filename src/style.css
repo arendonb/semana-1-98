@@ -257,3 +257,29 @@ hr{
     text-decoration: underline;
     font-weight: bold;
 }
+.container-imagenSantiago{
+    background-image: url('./santy.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    /* width: 242px; */
+   
+    height: 182px;
+}
+
+
+.news-image-spo{
+        background-image: url('./spoty.jpg');
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        width: 200px;
+        height: 105px;
+        margin: 40px auto;
+    }
+.container-imagenS1{
+    background-image: url('./descarga.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 152px;
+    margin: 40px auto;
+}
