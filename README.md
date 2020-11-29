@@ -18,3 +18,37 @@ El proyecto, deberá manejarse versionado en un repositorio remoto en github, en
   El elemento donde están los servicios debe de tener un `id=”team”`
 
 - Sección Footer o pie del sitio: el estudiante deberá crear el pie del sitio web en donde se incluye información de contacto, deberá estar dividido en dos partes, en una se tendrá la información del sitio web como el motivante del desarrollo y el enlace al repositorio de github, y en la otra los contacto de los miembros del equipo con sus nombres y roles. La sección debe de estar en un tag <footer></footer>
+
+Este trabajo es realizado por:
+
+Santiago Andrés Millan Pardo
+Cristhian Daniel Diaz Salazar
+Miguel Enrique Marquez Aldana
+Alejandro Rendón Blandón
+
+Inicialmente se crea el repositorio semana-1-98 en GitHub en blanco en la rama por defecto "main". En "main" se crea la rama "master" con el esqueleto
+dado por la UTP para este trabajo.
+
+Para probar el manejo de Git, se crea localmente la rama "iss1A" con los sigueintes cambios:
+- Se actualiza todo el index.html con la plantilla esqueleto pagina sprint 1. Incluyendo el archivo style.css
+- Se cambia el titulo de pagina y titulo principal a "semana-1-98"
+- Se cambia la imagen del header por una mas bonita
+- Se borra un integrante de los 5 previstos
+- Se configura el perfil de Alejandro
+- Luego se pasa a GitHub y se fusiona la rama "iss1A" con "master".
+
+Lluego para probar la colaboración en Git, se crea la rama "iss2A" con los siguientes cambios:
+- Se edita la noticia 4 (con el link respectivo) y el servicio 3 (sin el link)
+- Luego se pasa a GitHub y se fusiona la rama "iss2A" con "master".
+
+A partir de ahí se crea la rama "desarrollo" y se edita los campos personales de Cristian y se salva directamente.
+
+Una vez estabilizado el contenido de "desarrollo" se asigna las tareas adicionales donde cada uno crea un issue resepctivo:
+- issu3A se utilizó para crear la noticia 3 e integrarlo con desarrollo.
+- issue-santiago se utilizó para crear los link del menu de inicio, noticia 1, servicio 1 y datos personal de Santiago
+- issue1m se utilizó para crear la noticia 2, servicio 2 y datos personales de Miguel
+- issue1c se utilizó para crear el footer y los id. 
+
+Para los link de los servicios se decidió hacer una pagina plana donde se encuentre la descripción del servicio. Se ejecuto el issue y se integro a Desarrollo.
+
+Al final se unen casa issue a desarrollo y finalmente se une con master.
